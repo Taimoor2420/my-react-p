@@ -1,0 +1,118 @@
+.nav-link {
+    color: rgb(255, 247, 247) !important;
+}
+
+.nav-link:hover {
+    color: rgb(109, 85, 6) !important;
+}
+
+.navbar-brand {
+    color: white !important;
+}
+
+.navbar-brand:hover {
+    color: rgb(109, 85, 6) !important;
+}
+
+.bg-img {
+    background-image: url(../images/nasa.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    min-height: 100vh;
+}
+
+.px {
+    font-size: 60px !important;
+    color: white;
+}
+
+.px:hover {
+    color: rgb(109, 85, 6) !important;
+}
+.px1:hover {
+    color: rgb(109, 85, 6) !important;
+}
+
+.pxx {
+    font-size: 26px !important;
+}
+
+.bgi {
+    background-image: url(../images/5.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 400px;
+    min-height: 400px;
+
+}
+
+.btns {
+    border: 2px solid;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.btns:hover {
+    background-color: black;
+    color: white;
+}
+
+.bg-c {
+    background-color: #cdcdcd;
+}
+
+.line::after {
+    content: "";
+    position: absolute;
+    width: 120px;
+    left: 558px;
+    transform: translate(50%, 57px);
+    color: blue;
+    background-color: blue;
+    border: 3px solid rgb(24, 24, 26);
+}
+
+.Card {
+    background-color: white;
+}
+
+.Card:hover {
+    background-color: aliceblue;
+    color: rgb(16, 27, 122);
+}
+
+.bg-co {
+    background-color: rgb(5, 5, 5);
+}
+
+.btn-primar {
+    border: 2px solid white;
+    color: white;
+}
+
+.btn-primar:hover {
+    border: 2px solid;
+    color: black;
+    background-color: #cdcdcd;
+}
+
+.bg-dar {
+    background-color: black;
+    border-radius: 18px;
+}
+
+.form-control {
+    background-color: #cdcdcd;
+    color: black;
+    border: none !important;
+ outline: none !important;
+}
+.sss {
+    color: rgb(224, 160, 21);
+}
+.ssss{
+    color: red;
+}
